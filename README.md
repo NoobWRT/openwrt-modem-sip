@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Perz3us/openwrt-modem-sip/releases/latest"><img src="https://img.shields.io/github/v/release/Perz3us/openwrt-modem-sip?label=release" alt="Release"></a>
+  <a href="https://github.com/Perz3us/openwrt-modem-sip/releases"><img src="https://img.shields.io/github/downloads/Perz3us/openwrt-modem-sip/total?label=downloads" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/router-Arcadyan%20AW1000-0a7bbb" alt="Router">
   <a href="https://openwrt.org"><img src="https://img.shields.io/badge/OpenWrt-25.12-00b5e2?logo=openwrt&logoColor=white" alt="OpenWrt"></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/Perz3us/openwrt-modem-sip" alt="License"></a>
